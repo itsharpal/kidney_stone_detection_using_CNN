@@ -22,7 +22,7 @@ This project uses a Convolutional Neural Network to detect kidney stones in CT s
 ![Screenshots](static/stoneimg.png)
 
 - Normal Kidney Image :
-![Screenshots](static/normaimg.png)
+![Screenshots](static/normalimg.png)
 
 ---
 
