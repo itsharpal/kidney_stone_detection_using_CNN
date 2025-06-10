@@ -1,14 +1,3 @@
----
-title: Kidney Stone Detection using CNN
-emoji: ⚕️
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: "4.19.1"  # Match your Gradio version
-app_file: app.py
-pinned: false
----
-
 # 🧠 Kidney Stone Detection using CNN (TensorFlow)
 
 This project uses a Convolutional Neural Network to detect kidney stones in CT scan images. Built using TensorFlow and deployed using Gradio.
@@ -20,7 +9,7 @@ This project uses a Convolutional Neural Network to detect kidney stones in CT s
 - Gradio Web UI for predictions
 
 ## 🚀 Try it Online
-[Click here to open the demo](https://huggingface.co/spaces/YOUR_USERNAME/kidney-stone-detection)
+[Click here to open the demo](https://huggingface.co/spaces/itsharpal/kidney-stone-detection)
 
 ## 🗂️ Files
 - `app.py` – Gradio interface
@@ -29,12 +18,13 @@ This project uses a Convolutional Neural Network to detect kidney stones in CT s
 - `requirements.txt` – Dependencies
 
 ## 📸 Screenshot
-![Demo Screenshot](static/screenshot.png)
+- Stone Image :
+![Screenshots](static/stoneimg.png)
+
+- Normal Kidney Image :
+![Screenshots](static/normaimg.png)
 
 ---
 
-### 👨‍💻 Authors
-- Harpal Chapatwala – ET22BTCO012
-- Parth Hathiwala – ET22BTCO042
-- Jhan Modi – ET22BTCO047
-- Preet Jogani – ET22BTCO049
+### 👨‍💻 Author
+- Harpal Chapatwala
